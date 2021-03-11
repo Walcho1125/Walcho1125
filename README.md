@@ -3,7 +3,6 @@
 I am a software engineering student at Graz University of Technology. Study Asisstant and open source contributor. In my freetime I work on my own small projects.
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Walcho1125)](https://github.com/LordDashMe/github-contribution-stats/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Walcho1125)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Walcho1125/Walcho1125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
