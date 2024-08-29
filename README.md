@@ -1,10 +1,11 @@
-### Hi there 👋
-## It´s me Oskar
-I am a entrepreneurial Techie with masters in Softwareengineering and Business Management currently working on various Mobile and Web Applications. 
+# Hey there, it´s Oskar from all over Austria <img src="https://github.com/stevenrskelton/flag-icon/blob/master/svg/country-4x3/at.svg" height="20">
+### 🚀 I am a entrepreneurial Techie with masters in Softwareengineering and Business Management 🚀
+Currently working on various Mobile and Web Applications.
 
-
+### :fire: Everybody Likes Stats:
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Walcho1125)](https://github.com/LordDashMe/github-contribution-stats/)
 <!--
+
 **Walcho1125/Walcho1125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
