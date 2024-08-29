@@ -1,6 +1,7 @@
 ### Hi there 👋
 ## It´s me Oskar
-I am a software engineering student at Graz University of Technology. Study Asisstant and open source contributor. In my freetime I work on my own small projects.
+I am a entrepreneurial Techie with masters in Softwareengineering and Business Management currently working on various Mobile and Web Applications. 
+
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Walcho1125)](https://github.com/LordDashMe/github-contribution-stats/)
 <!--
